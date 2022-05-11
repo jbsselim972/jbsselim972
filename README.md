@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbsselim972
+- 👋 Hi, I’m Selim Jean-Baptiste-Simone
 - 👀 I’m interested in Web development, Blockchain, Anime, Heroic-Fantasy
 - 🌱 I’m currently learning React, Web3.0
 - 📫 contact@jbsselim.com
