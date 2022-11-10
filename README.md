@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selim Jean-Baptiste-Simone
 - 👀 I’m interested in Web Development, Blockchain, Anime, Heroic-Fantasy
-- 🌱 I’m currently learning React, Web3.0
+- 🌱 I’m currently learning React, Apollo/GraphQL,Web3.0
 - 📫 contact@jbsselim.com
 
 <!---
