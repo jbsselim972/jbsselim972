@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Apollo/GraphQL, Web3.0
 - 📫 jbsselim@gmail.com
 
-## 🛠️ Technologies & Tools
+🛠️
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
