@@ -4,7 +4,8 @@ Full Stack Developer | Web & Mobile Apps | 7 Years of Experience
 
 🚀 **Skills:**
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, Python, Django
+- Backend: Node.js, Python
+- Frameworks: Express, NextJS, Django
 - Databases: MongoDB, MySQL, PostgreSQL
 - APIs: RESTful, GraphQL
 - Mobile: React Native
