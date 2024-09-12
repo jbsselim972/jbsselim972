@@ -24,11 +24,11 @@ Full Stack Developer | Web & Mobile Apps | 7 Years of Experience
 🛠️
 ![](https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=orange)
 ![](https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-next.js-informational?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Node-informational?style=flat&color=informational&logo=node.js)
 
 <!---
 jbsselim972/jbsselim972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
