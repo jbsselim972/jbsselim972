@@ -20,7 +20,7 @@ Full Stack Developer | Web & Mobile Apps | 7 Years of Experience
 📫 **Let's Connect:**
 - LinkedIn: [Click here](https://linkedin.com/in/jbsselim)
 - [See my resume here!](SelimJBS_resume_2024.pdf)  :page_facing_up:
-- 
+
 🛠️
 ![](https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=orange)
 ![](https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=blue)
