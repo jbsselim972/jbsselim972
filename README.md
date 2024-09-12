@@ -22,8 +22,11 @@ Full Stack Developer | Web & Mobile Apps | 7 Years of Experience
 - [See my resume here!](SelimJBS_resume_2024.pdf)  :page_facing_up:
 - 
 🛠️
+![](https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=orange)
+![](https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-next.js-informational?style=flat&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 
